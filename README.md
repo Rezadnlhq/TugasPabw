@@ -1,7 +1,7 @@
 # 📚 Repository Tugas Kuliah
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NPM-2414101091-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NPM-2414101050-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prodi-Informatika-white?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fakultas-Teknik-maroon?style=for-the-badge" />
 </p>
